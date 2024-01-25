@@ -1,3 +1,4 @@
+# ©© Siraj Raval
 from numpy import exp, array, random, dot
 
 
